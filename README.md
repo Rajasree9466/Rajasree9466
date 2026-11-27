@@ -2,24 +2,17 @@
 
 🎓 B.Tech Graduate in Computer Science and Engineering (Artificial Intelligence).
 
-💻 Interested in Software Development, Python Programming, and Artificial Intelligence.
+💻 Interested in Python Programming, Software Development, and Machine Learning.
 
 ### Technical Skills
-- **Programming Languages:** Python, Java, SQL
+- **Programming:** Python, Java, SQL
 - **Databases:** MongoDB
-- **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, NLTK, Streamlit
-- **Core Concepts:** Object-Oriented Programming, Data Structures, DBMS, Machine Learning, NLP
+- **Libraries & Tools:** Pandas, NumPy, Scikit-learn, NLTK, Streamlit
+- **Core Concepts:** Machine Learning, NLP, OOP, DBMS, Data Structures
 
-### Projects
-- Real-Time Social Media Analytics for Brand Monitoring
-- Employee Management System
-- Flipkart Reviews Sentiment Analysis
+### Featured Projects
+- [Real-Time Social Media Analytics for Brand Monitoring](https://github.com/Rajasree9466/brand-monitoring-dashboard)
+- [Architecture Decision Record (ADR) System](https://github.com/Rajasree9466/Architecture-Decision-Record-ADR-System)
 
-### Experience
-- Java Developer Intern – CODEC Technologies
-- Artificial Intelligence Intern – SlashMark
-
-### Currently
-- Improving my programming and problem-solving skills.
-- Learning and building practical software projects.
-
+### Contact
+- [GitHub](https://github.com/Rajasree9466)
